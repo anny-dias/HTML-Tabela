@@ -16,6 +16,7 @@ body{
 #cabecalho{
     text-align: center;
     font-size: 20px;
+    border: 1px solid white;
 }
 #coluna{
     text-align: center;
@@ -28,4 +29,6 @@ body{
 }
 #linha{
     border: 1px solid white;
+    text-align: center;
+    font-size: 15px;
 }
